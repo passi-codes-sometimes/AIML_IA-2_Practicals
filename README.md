@@ -1,1 +1,1 @@
-AIMl College IA-2 Practicals 
+AIML College IA-2 Practicals 
